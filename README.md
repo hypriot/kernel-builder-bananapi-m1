@@ -1,5 +1,7 @@
 ## How to build my own image? ##
 
+**! Please note: This work is deprecated and will not be continued at least in the near future. Nevertheless, everyone is welcome to contribute to this work.**
+
 **Preparation**
 
 - x86 machine running any OS, 4G ram, SSD, quad core (recommended),
